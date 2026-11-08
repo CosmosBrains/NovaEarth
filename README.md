@@ -2,7 +2,7 @@
 
 NovaEarth is a early foreshadow of the dreams of space explorstion, where every day, perhaps from the cockpit of a spaceship, we will look down on a competely new alien world and ask questions about it.
 
-In NovaEarth, everyday, a new planet is generated, with unique terrain and character. Some might have rings, others have storms.
+In NovaEarth, everyday, a new planet is generated with unique terrain and character. Some might have rings, others have storms.
 
 This program is (very) inspired by [Terranova](https://www.fourmilab.ch/terranova/) by John Walker, I highly recommend checking it out.
 
