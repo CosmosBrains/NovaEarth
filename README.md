@@ -20,6 +20,12 @@ The seed used for the daily random planet generation is based on "[YEAR][MONTH][
 
 Everything else is simple variable handling and math.
 
+## Licensing
+
+This program is licensed under MIT license.
+
+You may use the files for whatever, but you will need to decompile them to edit the code.
+
 ## Other Credits
 
 I used Gamemaker as the underlying game engine (and therefore GML as the language)
