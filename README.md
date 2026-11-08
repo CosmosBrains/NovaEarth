@@ -20,6 +20,8 @@ The seed used for the daily random planet generation is based on "[YEAR][MONTH][
 
 Everything else is simple variable handling and math.
 
+## Other Credits
+
 I used Gamemaker as the underlying game engine (and therefore GML as the language)
 
 All other assets and code (tilesets for example) were created by me.
