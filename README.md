@@ -30,4 +30,6 @@ You may use the files for whatever, but you will need to decompile them to edit 
 
 I used Gamemaker as the underlying game engine (and therefore GML as the language)
 
+Website (Futured) font by [CoolText](https://cooltext.com/).
+
 All other assets and code (tilesets for example) were created by me.
